@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1258955661 source:g:\game dev\particle editor\source\engine\particleemitter.cpp
+	"particleemitter.h"
+
+1258955435 g:\game dev\particle editor\source\engine\particleemitter.h
+	<math.h>
+	<allegro.h>
+	<iostream>
+
+1258600141 source:g:\game dev\particle editor\source\gui\guibutton.cpp
+	"guibutton.h"
+
+1258816205 g:\game dev\particle editor\source\gui\guibutton.h
+	<string>
+	"..\input\inputmouse.h"
+	"guiData.h"
+	"guiresources.h"
+
+1258798374 g:\game dev\particle editor\source\input\inputmouse.h
+	<allegro.h>
+	<iostream>
+	"..\gui\cursorData.h"
+
+1258764507 g:\game dev\particle editor\source\gui\cursordata.h
+
+1258548651 g:\game dev\particle editor\source\gui\guidata.h
+
+1258558979 g:\game dev\particle editor\source\gui\guiresources.h
+	<allegro.h>
+	"guiData.h"
+
+1258558638 source:g:\game dev\particle editor\source\gui\guicheckbox.cpp
+	"guicheckbox.h"
+
+1258558979 g:\game dev\particle editor\source\gui\guicheckbox.h
+	<string>
+	"..\input\inputmouse.h"
+	"guiresources.h"
+	"guiData.h"
+
+1258800214 source:g:\game dev\particle editor\source\gui\guiframe.cpp
+	"guiframe.h"
+
+1258800103 g:\game dev\particle editor\source\gui\guiframe.h
+	<string>
+	"guiresources.h"
+	"..\input\inputmouse.h"
+
+1258558638 source:g:\game dev\particle editor\source\gui\guilabel.cpp
+	"guilabel.h"
+
+1258929123 g:\game dev\particle editor\source\gui\guilabel.h
+	<allegro.h>
+	<string>
+
+1259011074 source:g:\game dev\particle editor\source\gui\guimain.cpp
+	"guimain.h"
+
+1258935288 g:\game dev\particle editor\source\gui\guimain.h
+	"..\input\inputmouse.h"
+	"..\utils\dataformat.h"
+	"..\engine\particleeditor.h"
+	"guibutton.h"
+	"guiframe.h"
+	"guicheckbox.h"
+	"guitextfield.h"
+	"guiresources.h"
+	"guilabel.h"
+	"fields.h"
+	"labels.h"
+
+1259009862 g:\game dev\particle editor\source\gui\guitextfield.h
+	<allegro.h>
+	<string>
+	"..\input\inputmouse.h"
+	"guiData.h"
+	"guiresources.h"
+
+1258797861 source:g:\game dev\particle editor\source\gui\guiresources.cpp
+	"guiresources.h"
+
+1258939018 source:g:\game dev\particle editor\source\gui\guitextfield.cpp
+	"guitextfield.h"
+
+1258798871 source:g:\game dev\particle editor\source\input\inputmouse.cpp
+	"inputmouse.h"
+
+1258930435 source:g:\game dev\particle editor\source\utils\dataformat.cpp
+	"dataformat.h"
+
+1258852321 g:\game dev\particle editor\source\utils\dataformat.h
+	<string>
+	<sstream>
+
+1258935827 source:g:\game dev\particle editor\source\main.cpp
+	"gui\guimain.h"
+	"utils\dataformat.h"
+	"engine\particleeditor.h"
+	"iostream"
+
+1258935210 g:\game dev\particle editor\source\gui\fields.h
+
+1258957266 source:g:\game dev\particle editor\source\engine\particleeditor.cpp
+	"particleeditor.h"
+
+1258949491 g:\game dev\particle editor\source\engine\particleeditor.h
+	"..\gui\guimain.h"
+	"particleemitter.h"
+	<math.h>
+
+1258930219 g:\game dev\particle editor\source\gui\labels.h
+
+1258957903 source:g:\game dev\particle editor\source\pedit.rc
+
+1259010898 source:g:\game dev\particle editor\source\particle.rc
+
+1258978843 source:d:\particle editor\source\main.cpp
+	"gui\guimain.h"
+	"utils\dataformat.h"
+	"engine\particleeditor.h"
+	"iostream"
+
+1258978842 d:\particle editor\source\gui\guimain.h
+	"..\input\inputmouse.h"
+	"..\utils\dataformat.h"
+	"..\engine\particleeditor.h"
+	"guibutton.h"
+	"guiframe.h"
+	"guicheckbox.h"
+	"guitextfield.h"
+	"guiresources.h"
+	"guilabel.h"
+	"fields.h"
+	"labels.h"
+
+1258978843 d:\particle editor\source\input\inputmouse.h
+	<allegro.h>
+	<iostream>
+	"..\gui\cursorData.h"
+
+1258978841 d:\particle editor\source\gui\cursordata.h
+
+1258978843 d:\particle editor\source\utils\dataformat.h
+	<string>
+	<sstream>
+
+1258978841 d:\particle editor\source\engine\particleeditor.h
+	"..\gui\guimain.h"
+	"particleemitter.h"
+	<math.h>
+
+1258978841 d:\particle editor\source\engine\particleemitter.h
+	<math.h>
+	<allegro.h>
+	<iostream>
+
+1258978841 d:\particle editor\source\gui\guibutton.h
+	<string>
+	"..\input\inputmouse.h"
+	"guiData.h"
+	"guiresources.h"
+
+1258978841 d:\particle editor\source\gui\guidata.h
+
+1258978842 d:\particle editor\source\gui\guiresources.h
+	<allegro.h>
+	"guiData.h"
+
+1258978842 d:\particle editor\source\gui\guiframe.h
+	<string>
+	"guiresources.h"
+	"..\input\inputmouse.h"
+
+1258978841 d:\particle editor\source\gui\guicheckbox.h
+	<string>
+	"..\input\inputmouse.h"
+	"guiresources.h"
+	"guiData.h"
+
+1258978842 d:\particle editor\source\gui\guitextfield.h
+	<allegro.h>
+	<string>
+	"..\input\inputmouse.h"
+	"guiData.h"
+	"guiresources.h"
+
+1258978842 d:\particle editor\source\gui\guilabel.h
+	<allegro.h>
+	<string>
+
+1258978841 d:\particle editor\source\gui\fields.h
+
+1258978843 d:\particle editor\source\gui\labels.h
+
+1258979623 source:d:\particle editor\source\engine\particleeditor.cpp
+	"particleeditor.h"
+
+1258979745 source:d:\particle editor\source\engine\particleemitter.cpp
+	"particleemitter.h"
+
+1258978841 source:d:\particle editor\source\gui\guibutton.cpp
+	"guibutton.h"
+
+1258978841 source:d:\particle editor\source\gui\guicheckbox.cpp
+	"guicheckbox.h"
+
+1258978842 source:d:\particle editor\source\gui\guiframe.cpp
+	"guiframe.h"
+
+1258978842 source:d:\particle editor\source\gui\guilabel.cpp
+	"guilabel.h"
+
+1258979043 source:d:\particle editor\source\gui\guimain.cpp
+	"guimain.h"
+
+1258978842 source:d:\particle editor\source\gui\guiresources.cpp
+	"guiresources.h"
+
+1258978842 source:d:\particle editor\source\gui\guitextfield.cpp
+	"guitextfield.h"
+
+1258978843 source:d:\particle editor\source\input\inputmouse.cpp
+	"inputmouse.h"
+
+1258978843 source:d:\particle editor\source\utils\dataformat.cpp
+	"dataformat.h"
+
